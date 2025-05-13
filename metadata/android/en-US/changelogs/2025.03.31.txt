@@ -1,0 +1,13 @@
+### Add
+- Information settings
+- New theme for player
+- Option set public/private playlist
+- Header on option
+- Choose format of stream
+- Favorited song in artist
+
+### Fix
+- Home Order
+- Endless loop
+- Hide Volume Bar on mobile
+- Add to queue

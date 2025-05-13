@@ -1,0 +1,5 @@
+### Add
+- Add support for HTTP url (android)
+
+### Fix
+- Download song in cache (web)

@@ -1,0 +1,1 @@
+Castafiore is a music player that supports the Subsonic API, making it compatible with music server solutions like Navidrome and others. It allows users to connect to their music servers to stream and manage their music collection.
